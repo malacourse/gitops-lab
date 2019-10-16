@@ -5,4 +5,4 @@
 # The git repository for this project
 - src: https://github.com/malacourse/gitops-lab.git
   name: self
-    version: master
+  version: master
